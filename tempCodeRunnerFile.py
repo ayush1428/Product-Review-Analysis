@@ -1,0 +1,1 @@
+model = AutoModelForSequenceClassification.from_pretrained(MODEL)
